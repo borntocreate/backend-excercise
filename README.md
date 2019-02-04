@@ -2,6 +2,9 @@
 
 You will create a basic JSON API using PHP and SQL.
 
+**DO NOT** use fully-fledged frameworks like `Symfony` or `Laravel`.
+U can use libraries for routing, mailing etc.
+
 1. Implement a login/logout to authorize for the API:
     - Implement a route `/auth/login` which grants the client API access
     - Mandatory fields are `username` and `password`
