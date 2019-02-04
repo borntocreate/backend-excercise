@@ -1,6 +1,6 @@
 # Backend Excercise
 
-You will create a basic JSON API using PHP.
+You will create a basic JSON API using PHP and SQL.
 
 1. Implement a login/logout to authorize for the API:
     - Implement a route `/auth/login` which grants the client API access
